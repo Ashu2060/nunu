@@ -12,7 +12,7 @@ int main(){
     num/=2;
     //answer
     ans=rem*mul+ans;
-    //multily
+    //multily kalala
     mul*=10;
 
   }
